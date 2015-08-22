@@ -20,6 +20,7 @@ branch experiment4 A
 branch experiment4 B
 
 branch experiment5
+
 ## リモートの履歴を進めてみるその5
 
-## リモートの履歴をブランチから進めてみる
+## リモートの履歴を進めてみるその6
