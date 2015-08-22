@@ -6,4 +6,4 @@ branch experiment
 
 branch experiment2
 
-## リモートの履歴を進めてみる
+## リモートの履歴を進めてみるその２
